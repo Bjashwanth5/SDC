@@ -26,7 +26,11 @@ Just Go to GoLive option
 License
 This project is open-source and free to use.
 ## Output
-
+![image](https://github.com/user-attachments/assets/9af001cc-a12a-4473-a27b-4441f258f2ec)
+![image](https://github.com/user-attachments/assets/30287bd0-fb4e-4c86-a6ee-941255dde4e2)
+![image](https://github.com/user-attachments/assets/5d5b75b4-8c4f-467d-90ad-42fdcfe7c73a)
+![image](https://github.com/user-attachments/assets/2e9dd84d-7c6b-4460-891f-b19f1ee260bd)
+![image](https://github.com/user-attachments/assets/a1bc9b1c-8d49-4081-8d20-db9aebaa67a5)
 
 ## Experiment 2
 ## Aim: Responsive Shopping Cart Web Application using Bootstrap
@@ -47,6 +51,9 @@ Navigate through the app using the navbar or links.
 Just Go to GoLive option
 ## License
 This project is open-source and free to use.
+## Output
+![image](https://github.com/user-attachments/assets/d6a5e778-aa9c-48c1-a99a-95b78d9ec840)
+![image](https://github.com/user-attachments/assets/910efb28-ab33-4efc-b52f-e3d654197474)
 
 ## Experiment 3
 ## Aim: Shopping Cart Web Application with Client-Side Validation
@@ -68,7 +75,8 @@ Open register.html or login.html in a browser to test validation.
 Navigate through catalog and cart pages using navbar or links. (OR) Just Go to GoLive option.
 ## License
 This project is open-source and free to use.
-
+## Output
+![image](https://github.com/user-attachments/assets/8797d1b6-08ac-4a0c-a688-a59ca92bba4a)
 
 ## Experiment 4
 ## Aim: Weather Info App using ES6 and OpenWeatherMap API
@@ -91,8 +99,9 @@ Open index.html in a browser.
 Enter a city name and view the graph.
 ## License
 This project is open-source and free to use.
-
-
+## Output
+![image](https://github.com/user-attachments/assets/14754fbf-3d98-4670-b53f-9a8a3979a4d6)
+![image](https://github.com/user-attachments/assets/0f0b1f22-11dc-46fc-98d5-a7926fa51c59)
 
 ## Experiment 5
 ## Aim: Java Standalone CRUD Application with Database
@@ -112,7 +121,8 @@ String url = "jdbc:mysql://localhost:3306/studentdb"; String username = "root"; 
 CRUDApp.java – Main class with CRUD operations.
 ## License
 This project is open-source and free to use.
-
+## Output
+![image](https://github.com/user-attachments/assets/6ebfa3b0-022f-4429-8396-b9b6d6cf2416)
 
 ## Experiment 6
 ## Aim: Shopping Cart App with Servlet & DB Integration
@@ -136,8 +146,9 @@ web.xml for servlet mapping
 Add JDBC JAR to WEB-INF/lib
 ## Deploy to Tomcat
 Access at http://localhost:8080/YourApp/
-
-
+## Output
+![image](https://github.com/user-attachments/assets/884a9cc8-5fea-4640-95d8-e9d0ab7aecdf)
+![image](https://github.com/user-attachments/assets/9e6d96ea-44b2-4520-8f21-e6606431859a)
 
 ## Experiment 7
 ## Aim: Session Tracking in Web Applications
@@ -162,7 +173,9 @@ web.xml – Servlet configuration
 Deploy the app on Apache Tomcat
 Access login.html → Login → Navigate pages
 Check how session or cookies maintain user info
-
+## Output
+![image](https://github.com/user-attachments/assets/2ce54f61-11fe-47bd-b5e5-0dae3aa9bf4b)
+![image](https://github.com/user-attachments/assets/c803bb40-88a1-4463-a231-76c5830fc3c1)
 
 ***Nodejs***
 
@@ -188,7 +201,8 @@ Save server.js
 ## Run
 node server.js 
 Visit http://localhost:3000 in browser
-
+## Output
+![image](https://github.com/user-attachments/assets/8097405f-c253-42b4-ac6f-70b127ab58e6)
 
 ## Experiment 9
 ## Aim: Express REST API for Student Data CRUD
@@ -215,8 +229,13 @@ DELETE	/students/:id	Delete student by ID
 Clone the repo and navigate to the project folder.
 Install dependencies: npm install express body-parser
 Start the server: node app.js Use Postman to test the API at http://localhost:3000
-
-
+## Output
+![image](https://github.com/user-attachments/assets/4859c489-17b7-48e5-84ee-a22f80930329)
+{
+"name": "Alice",
+"age": 22,
+"course": "B.Tech"
+}
 
 ## Experiment 10
 ## Aim: Express REST API with JWT Authentication
@@ -243,7 +262,13 @@ DELETE	/students/:id	Delete student
 ## How to Run
 Install dependencies: npm install express body-parser jsonwebtoken 2.Start the server: node app.js
 Use Postman: First call /login to get the token Add Authorization: Bearer in headers for all other requests
-
+## Output
+{
+"id": "1717682112345",
+"name": "Alice",
+"age": 22,
+"course": "B.Tech"
+}
 
 ## Experiment 11
 ## Aim: React Student Management System
@@ -269,9 +294,8 @@ npx create-react-app student-management cd student-management npm install react-
 Replace App.js and create pages (Register.js, Login.js, Contact.js, About.js)
 ## Start the app
 npm start Open http://localhost:3000 in your browser
-
-
-
+## Output
+![image](https://github.com/user-attachments/assets/dc3bf859-8df6-43a3-9cc1-f0859d123e1f)
 
 ## Experiment 12
 ## React Weather App with Chart.js
@@ -301,7 +325,10 @@ cd react-weather-app
 npm install axios chart.js react-chartjs-2
 npm start 
 Then open: http://localhost:3000
-
+## Output
+![image](https://github.com/user-attachments/assets/743a32c4-b3c6-416c-9c74-b230f3fd6e6d)
+![image](https://github.com/user-attachments/assets/7089c968-949b-40b5-8674-82017c7bcd8c)
+![image](https://github.com/user-attachments/assets/8a9e3f74-891b-4684-900e-bc9c6e94f967)
 
 ## Experiment 13
 ## Aim: React TODO App
@@ -329,8 +356,9 @@ Deployment (GitHub Pages)
 ## Install GitHub Pages 
 npm install gh-pages --save-dev In package.json, 
 add: "homepage": "https://yourusername.github.io/react-todo", "scripts": { "predeploy": "npm run build", "deploy": "gh-pages -d build" } Deploy: npm run deploy
-
-
+## Output
+![image](https://github.com/user-attachments/assets/c9bf60a0-87a6-48b6-b9c9-62887f0a09ce)
+![image](https://github.com/user-attachments/assets/38df7cd3-f69f-4b43-b3cb-a876125a633b)
 
 ## Experiment 14
 ## Aim:Django Student Management System
@@ -360,8 +388,12 @@ cd student_project
 python manage.py startapp students 
 3.Run server python manage.py runserver
 4.Visit http://localhost:8000
-
-
+## Output
+![image](https://github.com/user-attachments/assets/362674ca-5168-4081-a90c-84101c805d14)
+![image](https://github.com/user-attachments/assets/dbd212eb-55c1-4ac3-a3fc-915a5d9bfa0b)
+![image](https://github.com/user-attachments/assets/fd596f8a-c816-4e34-a528-769c4a225ac2)
+![image](https://github.com/user-attachments/assets/bf6d2249-6831-4b0a-9985-9d4661bc88d5)
+![image](https://github.com/user-attachments/assets/f1808a6b-9969-412c-a815-33476ed083cc)
 
 ## Experiment 15
 ## Aim: Django Weather App with Chart.js
@@ -390,8 +422,8 @@ Add it in views.py or settings.py
 pip install django requests
 python manage.py runserver
 Visit: http://localhost:8000/weather/
-
-
+## Output
+![image](https://github.com/user-attachments/assets/7806074a-efbe-40cd-ae90-d656fb839c12)
 
 ## Experiment 16
 ## Aim: Django TODO Application
@@ -433,3 +465,6 @@ git remote add origin https://github.com/yourusername/django-todo-app.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
+## Output
+![image](https://github.com/user-attachments/assets/85038e82-3f78-4ceb-a8ef-d1600dfc31e1)
+
