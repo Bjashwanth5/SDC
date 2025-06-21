@@ -175,7 +175,7 @@ Access login.html → Login → Navigate pages
 Check how session or cookies maintain user info
 ## Output
 ![image](https://github.com/user-attachments/assets/2ce54f61-11fe-47bd-b5e5-0dae3aa9bf4b)
-![image](https://github.com/user-attachments/assets/c803bb40-88a1-4463-a231-76c5830fc3c1)
+![image](https://github.com/user-attachments/assets/5f6b9df4-0a37-461e-bbc5-4bfbd583345c)
 
 ***Nodejs***
 
