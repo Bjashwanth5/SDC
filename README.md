@@ -25,6 +25,8 @@ STEP TO RUN THE PROJECT
 Just Go to GoLive option
 License
 This project is open-source and free to use.
+## Output
+
 
 ## Experiment 2
 ## Aim: Responsive Shopping Cart Web Application using Bootstrap
