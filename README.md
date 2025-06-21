@@ -29,7 +29,7 @@ This project is open-source and free to use.
 ![image](https://github.com/user-attachments/assets/9af001cc-a12a-4473-a27b-4441f258f2ec)
 ![image](https://github.com/user-attachments/assets/30287bd0-fb4e-4c86-a6ee-941255dde4e2)
 ![image](https://github.com/user-attachments/assets/5d5b75b4-8c4f-467d-90ad-42fdcfe7c73a)
-![image](https://github.com/user-attachments/assets/2e9dd84d-7c6b-4460-891f-b19f1ee260bd)
+![image](https://github.com/user-attachments/assets/d8e089e8-212f-4820-9f50-f86ecc7a023b)
 ![image](https://github.com/user-attachments/assets/a1bc9b1c-8d49-4081-8d20-db9aebaa67a5)
 
 ## Experiment 2
